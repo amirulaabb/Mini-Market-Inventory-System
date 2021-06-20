@@ -1,0 +1,2 @@
+1	product	product_details	10	product_status	100.33	1
+123	123	12	123	haha	1.2	1
